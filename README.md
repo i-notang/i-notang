@@ -5,9 +5,9 @@
 - 🚅 My hometown is Sokcho, Gangwon-do in Korea
 
 ### Experience
-- 🎓 Hanyang University , Economics(ERICA) (2014.03~ )
-- 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
-- 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
+- 🎓 Hanyang University , Economics(ERICA) 
+- 💊 ESTsoft, Sales team Intern 
+- 🌍 Kobe University, Economics(Exchange) 
 
 ### What I Like
 - 📺 Drama
